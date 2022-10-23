@@ -1,0 +1,1 @@
+# This is the new method for AGV example. The idea is to avoid blocking scenario by expanding the number of action in a pattern. 
